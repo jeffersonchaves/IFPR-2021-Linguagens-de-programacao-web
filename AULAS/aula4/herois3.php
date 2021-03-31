@@ -9,5 +9,12 @@
    print "3 lugar: $herois[2] \n";
    print "4 lugar: $herois[3] \n";
    print "5 lugar: $herois[4] \n";
-   print "6 lugar: $herois[5] \n";
+   $herois[18] = "Hulk";
+   $herois[] = "Deadpool";
+
+   //print "6 lugar: $herois[5] \n";
+
+   print_r($herois);
+
+
    

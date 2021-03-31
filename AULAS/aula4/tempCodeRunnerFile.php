@@ -1,2 +1,2 @@
 <?php
-array
+4
