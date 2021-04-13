@@ -12,6 +12,17 @@
 
     <h1><?= $frase ?></h1>
 
+    <a href="cafes.com/cafes/?pais=brasil&regiao=sul">Cafés do sul do Brasil</a>
+
+    <form action="cafes.com/cafes">
+
+        <input type="text" name="pais">
+        <input type="text" name="regiao">
+
+        <input type="submit">
+
+    </form>
+
 </body>
 
 </html>
