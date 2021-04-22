@@ -23,10 +23,10 @@ $vetor2 = [
 $vetor3 = [
     "a" => "diminiu o inchaço",
     "b" => "previne infarto",
-    "c" => "cura TPM",
+    "c" => "cura dor de dente",
     "d" => "limpa o fígado",
-    "e" => "Deixa mais inteligente",
-    "f" => "Limpa as artérias"
+    "e" => "deixa mais inteligente",
+    "f" => "limpa as artérias"
 ];
 
 $posicao_aleatoria = rand(97, 102);
